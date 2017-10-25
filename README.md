@@ -1,4 +1,4 @@
-# CS231n-2016
+# CS231n 2016
 All homework assignments for the early 2016 Stanford **_CS231n: Convolutional Neural Networks for Visual Recognition_** class.
 
 Great thanks to Fei-Fei Li, Andrej Karpathy & Justin Johnson for publicly sharing the lectures, sheets and assignments for this class
